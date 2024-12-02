@@ -1,2 +1,3 @@
 this is my first document
-update 2 this is going well
+update 2 this is looking goood
+•	GitHub Desktop lets you manage your project, contribute to another project, make changes, and view the full history of the commits made in a project.
